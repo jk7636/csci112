@@ -1,0 +1,5 @@
+gnirts tsrif eht si siht
+thisisthesecondstring
+
+Argument [2] is : this is the second string
+Argument [1] is : this is the first string

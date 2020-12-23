@@ -245,7 +245,7 @@ FILE *fpay;
 #define MAX_EMPLOYEE 20 // maximum number of employees
 #define PRINT_PAYROLL_FIRST_LINE " Employee Name \t\tStreet \t\t\tCity \t  State\t  Zip\tAge Sex Tenure\tSalary" // first line output from printPayroll function
 #define PRINT_PAYROLL_DASH_LINE  "----------------------------------------------------------------------------------" // second and last lines output from printPayroll function
-#define PRINT_PAYROLL_PRINT_FORM "%s %c %s\t%s\%s\t%s \t %s\t %d\t %c\t  %d\t\t%6.2lf\n" //printf output for printPayroll function
+#define PRINT_PAYROLL_PRINT_FORM "%s %c %s\t%s%s\t%s \t %s\t %d\t %c\t  %d\t\t%6.2lf\n" //printf output for printPayroll function
 
 typedef struct {
     char first[8];   // 7 char max

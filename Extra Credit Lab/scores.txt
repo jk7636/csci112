@@ -1,0 +1,5 @@
+Golden State Warriors  25 12  0 10  3 11/01/2020
+LA Lakers              25 11  2  9  3 11/14/2020
+UIUC Fighting Illini   26 13  1  6  6 11/15/2020
+Boston College Eagles  26  9  4  8  5 11/20/2020
+ND Fighting Irish      26 11  2  4  9 12/05/2020

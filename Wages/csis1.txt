@@ -1,0 +1,5 @@
+Input Hours: 28.500000
+Input Payrate: 22.750000
+Gross Pay:	$648.38
+Taxes:		$162.01
+Net Pay:	$486.36
